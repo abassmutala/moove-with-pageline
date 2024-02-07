@@ -6,9 +6,9 @@ export default function Home() {
     <div className="relative h-screen overflow-hidden bg-white dark:bg-dark">
       <div className="relative h-full z-10 pb-20 pt-[150px] lg:pb-[120px] lg:pt-[210px]">
         <Image
-          src="https://www.globalsuzuki.com/automobile/lineup/s-presso/img/slide/key_img02.jpg"
+          src="/images/bg.png"
           alt="image"
-          className="absolute top-0 left-0 z-[-1] h-full w-full object-cover object-center"
+          className="absolute top-0 left-0 z-[-1] h-full w-full object-cover object-start"
           width="1024"
           height="768"
         />
