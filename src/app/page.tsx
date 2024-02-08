@@ -10,7 +10,7 @@ export default function Home() {
           Your browser does not support the video tag.
         </video> */}
         <Image
-          src="/images/MOOVE.gif"
+          src="/images/moove_gif.gif"
           alt="image"
           className="absolute top-0 left-0 z-[-1] h-full w-full object-cover object-start"
           width="1024"
