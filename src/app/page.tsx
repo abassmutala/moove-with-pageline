@@ -6,13 +6,13 @@ export default function Home() {
     <div className="relative h-screen overflow-hidden bg-white">
       <div className="relative h-full z-10">
         <Image
-          src="/images/bg.png"
+          src="/images/bg.jpeg"
           alt="image"
           className="absolute top-0 left-0 z-[-1] h-full w-full object-cover object-start"
           width="1024"
           height="768"
         />
-        <div className="container relative mx-auto h-full flex flex-col items-end justify-end gap-12 py-8 md:py-12 lg:py-20">
+        {/* <div className="container relative mx-auto h-full flex flex-col items-end justify-end gap-12 py-8 md:py-12 lg:py-20">
           <div className="flex flex-wrap -mx-4">
             <div className="w-full px-4">
               <div className="max-w-xl bg-white py-10 px-8 sm:p-12 md:p-12 rounded-md shadow-sm">
@@ -75,7 +75,7 @@ export default function Home() {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
