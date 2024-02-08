@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="relative h-screen overflow-hidden bg-white">
+    <div className="relative w-screen aspect-video overflow-hidden bg-white">
       <div className="relative h-full z-10">
         <Image
           src="/images/bg.jpeg"
