@@ -10,7 +10,7 @@ export default function Home() {
             <div className="md:px-8 w-full max-w-2xl mx-auto">
               <div className="w-full h-16 md:h-auto bg-white md:pt-12 px-5 md:p-8 md:rounded-b-xl shadow-md flex items-center">
                 <div className="w-full flex items-center justify-center">
-                  <div className="h-8 mr-4">
+                  <div className="flex-1 h-8 mr-4 flex items-center justify-center">
                     <Image
                       src="/images/moove-logo.png"
                       alt="moove logo"
@@ -19,7 +19,7 @@ export default function Home() {
                       height="768"
                     />
                   </div>
-                  <div className="h-12 ml-4">
+                  <div className="flex-1 h-12 ml-4 flex items-center justify-center">
                     <Image
                       src="/images/pageline-logo.png"
                       alt="pageline logo"
