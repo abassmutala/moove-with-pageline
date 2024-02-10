@@ -43,7 +43,7 @@ export default function Home() {
             <div className="flex-1 w-full bg-[#ED3B25] px-5 py-12">
               <div className="mx-auto max-w-2xl md:px-8">
                 <h1 className="mb-4 text-3xl leading-8 font-bold text-white md:text-4xl">
-                  Now your are here
+                  Now you&apos;re here
                   <br />
                   Let&apos;s talk business!
                 </h1>
@@ -115,7 +115,7 @@ export default function Home() {
                 {/* <div className="lg:pb-28"> */}
                 <div className="absolute bottom-32  w-full bg-[#ED3B25] p-8 rounded-2xl shadow-sm">
                   <h1 className="mb-3 text-3xl leading-6 font-bold text-white md:text-4xl">
-                    Now your are here
+                    Now you&apos;re here
                     <br />
                     Let&apos;s talk business!
                   </h1>
