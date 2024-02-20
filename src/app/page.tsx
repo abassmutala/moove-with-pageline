@@ -157,7 +157,7 @@ export default function Home() {
           <div className="px-5 md:px-8 max-w-2xl lg:max-w-[1440px] mx-auto">
             <p className="text-white">
               Contact us on&nbsp;
-              <Link href="" target="_blank" className="underline">
+              <Link href="https://wa.me/233262707878" target="_blank" className="underline">
                 WhatsApp
               </Link>
             </p>
